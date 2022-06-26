@@ -1,4 +1,5 @@
-# demo-repo
+# Demo
 Learning how to use Git and GitHub
 
-Some new description.
+## Subheader
+Now with an even newer description!
