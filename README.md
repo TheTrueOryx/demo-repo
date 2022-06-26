@@ -7,4 +7,5 @@ And a new sentence to test git pull.
 Now with yet again another sentence.
 Has this completely finished working?
 
-## New section
+## Newer section
+I've now enabled other options.
